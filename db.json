@@ -2,11 +2,13 @@
 "data":[
 {
 "id":1,
-"name":"shruthi"
+"name":"shruthi",
+ "designation":"consultant"
 },
 {
 "id":2,
-"name":"naveen"
+"name":"naveen",
+ "designation":"data analyst"
 }
 
 ]
